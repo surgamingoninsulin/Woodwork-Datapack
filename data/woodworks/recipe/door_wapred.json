@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "woodworking",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "#minecraft:warped_stems"
+  },
+  "result": {
+    "id": "minecraft:warped_door",
+    "count": 12
+  }
+}
